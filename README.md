@@ -1,2 +1,5 @@
 # ATIVIDADES_IOT
-Atividades IOT 
+Foram separadas em pastas para melhor organização.
+Adriano Nascimento Junior
+DSM4
+TDSM5
